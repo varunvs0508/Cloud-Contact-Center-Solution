@@ -1,0 +1,23 @@
+[
+  {
+    "customerId": "CUST1001",
+    "name": "Rahul Sharma",
+    "accountNumber": "ACC1001",
+    "customerType": "Premium",
+    "supportTier": "Priority"
+  },
+  {
+    "customerId": "CUST1002",
+    "name": "Priya Singh",
+    "accountNumber": "ACC1002",
+    "customerType": "Standard",
+    "supportTier": "Normal"
+  },
+  {
+    "customerId": "CUST1003",
+    "name": "Amit Kumar",
+    "accountNumber": "ACC1003",
+    "customerType": "Premium",
+    "supportTier": "Priority"
+  }
+]
